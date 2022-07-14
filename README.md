@@ -54,6 +54,4 @@ Modifying the script to produce turnout results by county is just one of many wa
 
 Similarly, if this were a federal election, we could use the same script and change the county to states. 
 
-In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board.  
-
-I am open to negotiation and available for consult if you are interested in talking further.
+In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board.
